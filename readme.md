@@ -20,19 +20,30 @@ Me neither! So grab a friend and let's jump in together. We'll discuss some reso
 
 Okay okay, so what's the purpose of the game?
 ---------------------------------------------
-*TBD*
+Pick three from this list of words that start with S (or other words that start with S):
+* spooky 
+* space
+* snakes
+* super
+* skeletons
+* snowglobes
+* sandwiches
+* shame
+* sadness
+* shame
+* S<some characters here>m
 
 What software should I use to make my game?
 -------------------------------------------
 You can use anything you want! Any language, any engine, anything. Heck, make a text based game if you'd like (that'd actually be awesome).
 
 If you're looking for recommendations though, here are a few popular ones:
-* [PyGame]()
-* [Unity3D]()
-* [Unreal Engine]()
-* [LibGDX]()
-* [Lumberyard]()
-* [Corona]()
-* [Blender]()
-* [GameMaker]()
-* [Adobe ~Flash~ Animator (Not Free)]()_
+* [PyGame](http://pygame.org/)
+* [Unity3D](http://unity3d.com)
+* [Processing](http://processing.org)
+* [Unreal Engine](http://unrealengine.com)
+* [LibGDX](http://libgdx.badlogicgames.com)
+* [Lumberyard](http://aws.amazon.com/lumberyard)
+* [Corona](http://coronalabs.com/products/corona-sdk)
+* [Blender](http://blender.org)
+* [GameMaker](http://www.yoyogames.com/gamemaker)
