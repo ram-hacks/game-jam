@@ -47,3 +47,10 @@ If you're looking for recommendations though, here are a few popular ones:
 * [Corona](http://coronalabs.com/products/corona-sdk)
 * [Blender](http://blender.org)
 * [GameMaker](http://www.yoyogames.com/gamemaker)
+
+Other tools that might be useful:
+* [Tiled](http://www.mapeditor.com/) - Tiling map editor
+* [Blender](http://blender.org) - 3D Modeling Software
+* [Inkscape](http://inkscape.org) - Vector drawing software
+* [GIMP](http://www.gimp.org) - GNU Image Manupulation Program
+* [Photoshop CS2](https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html#) - Adobe CS2 Suite (If you previously owned it)
